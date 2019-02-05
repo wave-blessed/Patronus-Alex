@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en" dir="ltr">
+	<head>
+		<meta name="dtb:uid" content="https://ficbook.net/readfic/3837671" />
+		<meta name="dtb:depth" content="2" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+
+	<docTitle>
+		<text>Патронус Алекс</text>
+	</docTitle>
+
+	<docAuthor>
+		<text>Феи Динь Динь</text>
+	</docAuthor>
+
+	<navMap>
+		<navPoint id="chapter1" playOrder="1">
+			<navLabel>
+				<text>Патронус Алекс</text>
+			</navLabel>
+			<content src="hat.html" />
+		</navPoint>
+		<navPoint id="ref_toc" playOrder="2">
+			<navLabel>
+				<text>Содержание</text>
+			</navLabel>
+			<content src="TOC.xhtml" />
+		</navPoint>
+		<navPoint id="chapter2" playOrder="3">
+			<navLabel>
+				<text>Пролог</text>
+			</navLabel>
+			<content src="ch0.html" />
+		</navPoint>
+		<navPoint id="chapter3" playOrder="4">
+			<navLabel>
+				<text>Секрет Гермионы.  Спрячь за решётку вольную волю Выкраду вместе с решёткой.</text>
+			</navLabel>
+			<content src="ch1.html" />
+		</navPoint>
+		<navPoint id="chapter4" playOrder="5">
+			<navLabel>
+				<text>Ставь перед собой цель покрупнее не промахнёшься</text>
+			</navLabel>
+			<content src="ch2.html" />
+		</navPoint>
+		<navPoint id="chapter5" playOrder="6">
+			<navLabel>
+				<text>Мой дурдом - моя крепость?</text>
+			</navLabel>
+			<content src="ch3.html" />
+		</navPoint>
+		<navPoint id="chapter6" playOrder="7">
+			<navLabel>
+				<text>Практическое магловеденье.</text>
+			</navLabel>
+			<content src="ch4.html" />
+		</navPoint>
+		<navPoint id="chapter7" playOrder="8">
+			<navLabel>
+				<text>Особенности и повадки магов в естественной среде их обитания</text>
+			</navLabel>
+			<content src="ch5.html" />
+		</navPoint>
+		<navPoint id="chapter8" playOrder="9">
+			<navLabel>
+				<text>Чемпионат мира по квиддичу и немного о домовых эльфах.</text>
+			</navLabel>
+			<content src="ch6.html" />
+		</navPoint>
+		<navPoint id="chapter9" playOrder="10">
+			<navLabel>
+				<text>ЦЫПЛЁНОК, МЕТКА, ДВА НОЖА.</text>
+			</navLabel>
+			<content src="ch7.html" />
+		</navPoint>
+		<navPoint id="chapter10" playOrder="11">
+			<navLabel>
+				<text>Слух прошёл по зоосаду, у людей олимпиада. Удивился дикобраз, почему бы не у нас.</text>
+			</navLabel>
+			<content src="ch8.html" />
+		</navPoint>
+		<navPoint id="chapter11" playOrder="12">
+			<navLabel>
+				<text>Ученье свет и кто не спрятался сам виноват.</text>
+			</navLabel>
+			<content src="ch9.html" />
+		</navPoint>
+		<navPoint id="chapter12" playOrder="13">
+			<navLabel>
+				<text>Что нам стоит дом построить, Нарисуем будем жить.</text>
+			</navLabel>
+			<content src="ch10.html" />
+		</navPoint>
+		<navPoint id="chapter13" playOrder="14">
+			<navLabel>
+				<text>Палка, палка огуречик, Получился человечек?</text>
+			</navLabel>
+			<content src="ch11.html" />
+		</navPoint>
+		<navPoint id="chapter14" playOrder="15">
+			<navLabel>
+				<text>Чувствуйте себя как дома,  Но не забывайте, что в гостях.</text>
+			</navLabel>
+			<content src="ch12.html" />
+		</navPoint>
+		<navPoint id="chapter15" playOrder="16">
+			<navLabel>
+				<text>Богом стать просто,  Если уже невмочь.</text>
+			</navLabel>
+			<content src="ch13.html" />
+		</navPoint>
+		<navPoint id="chapter16" playOrder="17">
+			<navLabel>
+				<text>Тётенька, тётенька зачем тебе такие большие  уши, зубы, прытко пишущее перо?</text>
+			</navLabel>
+			<content src="ch14.html" />
+		</navPoint>
+		<navPoint id="chapter17" playOrder="18">
+			<navLabel>
+				<text>Прежде чем сжигать за собой мосты, посмотри, на том ли ты берегу.</text>
+			</navLabel>
+			<content src="ch15.html" />
+		</navPoint>
+		<navPoint id="chapter18" playOrder="19">
+			<navLabel>
+				<text>Не хочешь заставят,  не можешь научат.</text>
+			</navLabel>
+			<content src="ch16.html" />
+		</navPoint>
+		<navPoint id="chapter19" playOrder="20">
+			<navLabel>
+				<text>Аве Цезарь, идущий насмерть  приветствует тебя.</text>
+			</navLabel>
+			<content src="ch17.html" />
+		</navPoint>
+		<navPoint id="chapter20" playOrder="21">
+			<navLabel>
+				<text>Неприятности делятся на крупные, то есть наши собственные, и мелкие, то есть чужие.</text>
+			</navLabel>
+			<content src="ch18.html" />
+		</navPoint>
+		<navPoint id="chapter21" playOrder="22">
+			<navLabel>
+				<text>Круговорот души в природе.</text>
+			</navLabel>
+			<content src="ch19.html" />
+		</navPoint>
+		<navPoint id="chapter22" playOrder="23">
+			<navLabel>
+				<text>Понедельник день тяжёлый. Часть 1</text>
+			</navLabel>
+			<content src="ch20.html" />
+		</navPoint>
+		<navPoint id="chapter23" playOrder="24">
+			<navLabel>
+				<text>Понедельник день тяжёлый. Часть2</text>
+			</navLabel>
+			<content src="ch21.html" />
+		</navPoint>
+		<navPoint id="chapter24" playOrder="25">
+			<navLabel>
+				<text>Спать ложусь я, вроде пешки. Просыпаюся, ферзём.</text>
+			</navLabel>
+			<content src="ch22.html" />
+		</navPoint>
+		<navPoint id="chapter25" playOrder="26">
+			<navLabel>
+				<text>Раз два три четыре пять, я иду искать.</text>
+			</navLabel>
+			<content src="ch23.html" />
+		</navPoint>
+		<navPoint id="chapter26" playOrder="27">
+			<navLabel>
+				<text>Разбор полётов. С крыши на чердак.</text>
+			</navLabel>
+			<content src="ch24.html" />
+		</navPoint>
+		<navPoint id="chapter27" playOrder="28">
+			<navLabel>
+				<text>Ареал Сохатого, гон и тряпки. Pardon праздничные наряды.</text>
+			</navLabel>
+			<content src="ch25.html" />
+		</navPoint>
+		<navPoint id="chapter28" playOrder="29">
+			<navLabel>
+				<text>Нынче детям много-ль надо, им бы танцы да упада.</text>
+			</navLabel>
+			<content src="ch26.html" />
+		</navPoint>
+		<navPoint id="chapter29" playOrder="30">
+			<navLabel>
+				<text>Бог создал людей сильными и слабыми (некоторых даже магами). А полковник Кольт уровнял их шансы.</text>
+			</navLabel>
+			<content src="ch27.html" />
+		</navPoint>
+		<navPoint id="chapter30" playOrder="31">
+			<navLabel>
+				<text>Человек, животное стадное.</text>
+			</navLabel>
+			<content src="ch28.html" />
+		</navPoint>
+		<navPoint id="chapter31" playOrder="32">
+			<navLabel>
+				<text>Эстафета, эстафета вместо палочки конфета. Удержаться нету сил, даже тигр откусил.</text>
+			</navLabel>
+			<content src="ch29.html" />
+		</navPoint>
+		<navPoint id="chapter32" playOrder="33">
+			<navLabel>
+				<text>Жив ты или помер - Главное, чтоб в номер Материал успел ты передать.</text>
+			</navLabel>
+			<content src="ch30.html" />
+		</navPoint>
+		<navPoint id="chapter33" playOrder="34">
+			<navLabel>
+				<text>Каждому, каждому в лучшее верится. Катится, катится алый паровоз.</text>
+			</navLabel>
+			<content src="ch31.html" />
+		</navPoint>
+		<navPoint id="chapter34" playOrder="35">
+			<navLabel>
+				<text>Если вам нечего терять, попробуйте что-нибудь найти.</text>
+			</navLabel>
+			<content src="ch32.html" />
+		</navPoint>
+		<navPoint id="chapter35" playOrder="36">
+			<navLabel>
+				<text>Первый бой комом.</text>
+			</navLabel>
+			<content src="ch33.html" />
+		</navPoint>
+		<navPoint id="chapter36" playOrder="37">
+			<navLabel>
+				<text>Пока гром не грянет, Министр не раскошелится.</text>
+			</navLabel>
+			<content src="ch34.html" />
+		</navPoint>
+		<navPoint id="chapter37" playOrder="38">
+			<navLabel>
+				<text>Но пасаран. "No pasarаn".</text>
+			</navLabel>
+			<content src="ch35.html" />
+		</navPoint>
+		<navPoint id="chapter38" playOrder="39">
+			<navLabel>
+				<text>Чем чаще вправляют мозги, тем больше они набекрень.</text>
+			</navLabel>
+			<content src="ch36.html" />
+		</navPoint>
+		<navPoint id="chapter39" playOrder="40">
+			<navLabel>
+				<text>До чего дошёл прогресс, до невиданных чудес. Опустился на глубины и поднялся до небес.</text>
+			</navLabel>
+			<content src="ch37.html" />
+		</navPoint>
+		<navPoint id="chapter40" playOrder="41">
+			<navLabel>
+				<text>Долго ожидаемая подлянка, всегда выскакивает неожиданно.</text>
+			</navLabel>
+			<content src="ch38.html" />
+		</navPoint>
+		<navPoint id="chapter41" playOrder="42">
+			<navLabel>
+				<text>Минута молчанья, волчата уходят тропою волков.</text>
+			</navLabel>
+			<content src="ch39.html" />
+		</navPoint>
+		<navPoint id="chapter42" playOrder="43">
+			<navLabel>
+				<text>Старая в альбоме есть фотография, мы на ней словно мафия. Или просто семья.</text>
+			</navLabel>
+			<content src="ch40.html" />
+		</navPoint>
+		<navPoint id="chapter43" playOrder="44">
+			<navLabel>
+				<text>Дались вам эти мозгошмыги, есть симптомчики пострашнее.</text>
+			</navLabel>
+			<content src="ch41.html" />
+		</navPoint>
+		<navPoint id="chapter44" playOrder="45">
+			<navLabel>
+				<text>Тяжело в учении, до боя доживут не все.</text>
+			</navLabel>
+			<content src="ch42.html" />
+		</navPoint>
+		<navPoint id="chapter45" playOrder="46">
+			<navLabel>
+				<text>Фигня война, главное манёвры.</text>
+			</navLabel>
+			<content src="ch43.html" />
+		</navPoint>
+		<navPoint id="chapter46" playOrder="47">
+			<navLabel>
+				<text>Мозговой штурм, мозговая осада и даже мозговая засада.</text>
+			</navLabel>
+			<content src="ch44.html" />
+		</navPoint>
+		<navPoint id="chapter47" playOrder="48">
+			<navLabel>
+				<text>Страсти мордасти.</text>
+			</navLabel>
+			<content src="ch45.html" />
+		</navPoint>
+		<navPoint id="chapter48" playOrder="49">
+			<navLabel>
+				<text>Квиддич во время чумы.</text>
+			</navLabel>
+			<content src="ch46.html" />
+		</navPoint>
+		<navPoint id="chapter49" playOrder="50">
+			<navLabel>
+				<text>Слышу голос, голос спрашивает строго. А сегодня что на завтра сделал ты.</text>
+			</navLabel>
+			<content src="ch47.html" />
+		</navPoint>
+		<navPoint id="chapter50" playOrder="51">
+			<navLabel>
+				<text>Знаешь где упадёшь, не ленись, постели солому.</text>
+			</navLabel>
+			<content src="ch48.html" />
+		</navPoint>
+		<navPoint id="chapter51" playOrder="52">
+			<navLabel>
+				<text>Мир замолк, уснул, а может быть исчез, если б не было на свете АТС</text>
+			</navLabel>
+			<content src="ch49.html" />
+		</navPoint>
+		<navPoint id="chapter52" playOrder="53">
+			<navLabel>
+				<text>Я прививки не боюсь. Если надо, уколюсь.</text>
+			</navLabel>
+			<content src="ch50.html" />
+		</navPoint>
+		<navPoint id="chapter53" playOrder="54">
+			<navLabel>
+				<text>Прелесть что за гадость.</text>
+			</navLabel>
+			<content src="ch51.html" />
+		</navPoint>
+		<navPoint id="chapter54" playOrder="55">
+			<navLabel>
+				<text>Всегда ли приятно поговорить с умным человеком, даже с самим собой.</text>
+			</navLabel>
+			<content src="ch52.html" />
+		</navPoint>
+		<navPoint id="chapter55" playOrder="56">
+			<navLabel>
+				<text>Валентин может быть и святой, а люди грешны.</text>
+			</navLabel>
+			<content src="ch53.html" />
+		</navPoint>
+		<navPoint id="chapter56" playOrder="57">
+			<navLabel>
+				<text>Тяжело сидеть на канцелярских кнопках.</text>
+			</navLabel>
+			<content src="ch54.html" />
+		</navPoint>
+	</navMap>
+</ncx>
