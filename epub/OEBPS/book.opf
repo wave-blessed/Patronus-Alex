@@ -76,6 +76,7 @@
 		<item id="chapter54" href="ch52.html" media-type="application/xhtml+xml" />
 		<item id="chapter55" href="ch53.html" media-type="application/xhtml+xml" />
 		<item id="chapter56" href="ch54.html" media-type="application/xhtml+xml" />
+		<item id="chapter57" href="ch55.html" media-type="application/xhtml+xml" />
 		<item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
@@ -137,6 +138,7 @@
 		<itemref idref="chapter54" />
 		<itemref idref="chapter55" />
 		<itemref idref="chapter56" />
+		<itemref idref="chapter57" />
 	</spine>
 
 	<guide>

@@ -360,5 +360,11 @@
 			</navLabel>
 			<content src="ch54.html" />
 		</navPoint>
+		<navPoint id="chapter57" playOrder="58">
+			<navLabel>
+				<text>На медведя я друзья, выйду без испуга, если с другом буду я, а медведь без друга.</text>
+			</navLabel>
+			<content src="ch55.html" />
+		</navPoint>
 	</navMap>
 </ncx>
