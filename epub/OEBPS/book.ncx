@@ -366,5 +366,11 @@
 			</navLabel>
 			<content src="ch55.html" />
 		</navPoint>
+		<navPoint id="chapter58" playOrder="59">
+			<navLabel>
+				<text>Эпилог.</text>
+			</navLabel>
+			<content src="ch56.html" />
+		</navPoint>
 	</navMap>
 </ncx>
