@@ -98,7 +98,7 @@
 		</navPoint>
 		<navPoint id="chapter13" playOrder="14">
 			<navLabel>
-				<text>Палка, палка огуречек, получился человечек?</text>
+				<text>Палка, палка, огуречек, получился человечек?</text>
 			</navLabel>
 			<content src="ch11.html" />
 		</navPoint>
@@ -134,7 +134,7 @@
 		</navPoint>
 		<navPoint id="chapter19" playOrder="20">
 			<navLabel>
-				<text>Аве, Цезарь, идущий насмерть приветствует тебя</text>
+				<text>Аве, Цезарь, идущий на смерть приветствует тебя</text>
 			</navLabel>
 			<content src="ch17.html" />
 		</navPoint>
