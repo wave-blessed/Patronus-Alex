@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">urn:uuid:3d68a182-ba88-47de-a19b-438b02a9fe38</dc:identifier>
+    <dc:title>Патронус Алекс</dc:title>
+    <dc:date>2021-06-24T12:58:13Z</dc:date>
+    <dc:language>ru</dc:language>
+    <dc:creator opf:role="aut">Феи Динь Динь</dc:creator>
+    <dc:description>Во время первой войны с Воландемортом дементор съедает душу советского шпиона, вынюхивающего у англичан секреты компьютерных разработок. (Иначе все знания и умения в нужного человека не запихать). Душа оказалась неперевариваемой, так как шпион ещё и ветеран ВМВ. И в конце третьего курса Гарри Поттера то, что после тринадцати лет осталось от души, подселилось к Гарри (НЕ ЗАМЕНИЛО). Поттер получает кучу полезных знаний, но при этом остаётся подростком. НИКАКИХ СТАРЦЕВ В ТЕЛЕ РЕБЁНКА НЕ БУДЕТ!</dc:description>
+<dc:rights>Сохранено с сайта https://ficbook.net</dc:rights>
+
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" />
+    <item media-type="application/xhtml+xml"  id="title_xhtml" href="title.xhtml" />
+<item media-type="application/xhtml+xml"  id="toc_xhtml" href="toc.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_0_xhtml" href="chapter_0.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_1_xhtml" href="chapter_1.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_2_xhtml" href="chapter_2.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_3_xhtml" href="chapter_3.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_4_xhtml" href="chapter_4.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_5_xhtml" href="chapter_5.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_6_xhtml" href="chapter_6.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_7_xhtml" href="chapter_7.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_8_xhtml" href="chapter_8.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_9_xhtml" href="chapter_9.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_10_xhtml" href="chapter_10.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_11_xhtml" href="chapter_11.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_12_xhtml" href="chapter_12.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_13_xhtml" href="chapter_13.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_14_xhtml" href="chapter_14.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_15_xhtml" href="chapter_15.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_16_xhtml" href="chapter_16.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_17_xhtml" href="chapter_17.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_18_xhtml" href="chapter_18.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_19_xhtml" href="chapter_19.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_20_xhtml" href="chapter_20.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_21_xhtml" href="chapter_21.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_22_xhtml" href="chapter_22.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_23_xhtml" href="chapter_23.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_24_xhtml" href="chapter_24.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_25_xhtml" href="chapter_25.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_26_xhtml" href="chapter_26.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_27_xhtml" href="chapter_27.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_28_xhtml" href="chapter_28.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_29_xhtml" href="chapter_29.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_30_xhtml" href="chapter_30.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_31_xhtml" href="chapter_31.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_32_xhtml" href="chapter_32.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_33_xhtml" href="chapter_33.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_34_xhtml" href="chapter_34.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_35_xhtml" href="chapter_35.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_36_xhtml" href="chapter_36.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_37_xhtml" href="chapter_37.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_38_xhtml" href="chapter_38.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_39_xhtml" href="chapter_39.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_40_xhtml" href="chapter_40.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_41_xhtml" href="chapter_41.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_42_xhtml" href="chapter_42.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_43_xhtml" href="chapter_43.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_44_xhtml" href="chapter_44.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_45_xhtml" href="chapter_45.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_46_xhtml" href="chapter_46.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_47_xhtml" href="chapter_47.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_48_xhtml" href="chapter_48.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_49_xhtml" href="chapter_49.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_50_xhtml" href="chapter_50.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_51_xhtml" href="chapter_51.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_52_xhtml" href="chapter_52.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_53_xhtml" href="chapter_53.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_54_xhtml" href="chapter_54.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_55_xhtml" href="chapter_55.xhtml" />
+<item media-type="application/xhtml+xml"  id="chapter_56_xhtml" href="chapter_56.xhtml" />
+<item media-type="text/css"  id="stylesheet_css" href="stylesheet.css" />
+
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title_xhtml" />
+<itemref idref="toc_xhtml" />
+<itemref idref="chapter_0_xhtml" />
+<itemref idref="chapter_1_xhtml" />
+<itemref idref="chapter_2_xhtml" />
+<itemref idref="chapter_3_xhtml" />
+<itemref idref="chapter_4_xhtml" />
+<itemref idref="chapter_5_xhtml" />
+<itemref idref="chapter_6_xhtml" />
+<itemref idref="chapter_7_xhtml" />
+<itemref idref="chapter_8_xhtml" />
+<itemref idref="chapter_9_xhtml" />
+<itemref idref="chapter_10_xhtml" />
+<itemref idref="chapter_11_xhtml" />
+<itemref idref="chapter_12_xhtml" />
+<itemref idref="chapter_13_xhtml" />
+<itemref idref="chapter_14_xhtml" />
+<itemref idref="chapter_15_xhtml" />
+<itemref idref="chapter_16_xhtml" />
+<itemref idref="chapter_17_xhtml" />
+<itemref idref="chapter_18_xhtml" />
+<itemref idref="chapter_19_xhtml" />
+<itemref idref="chapter_20_xhtml" />
+<itemref idref="chapter_21_xhtml" />
+<itemref idref="chapter_22_xhtml" />
+<itemref idref="chapter_23_xhtml" />
+<itemref idref="chapter_24_xhtml" />
+<itemref idref="chapter_25_xhtml" />
+<itemref idref="chapter_26_xhtml" />
+<itemref idref="chapter_27_xhtml" />
+<itemref idref="chapter_28_xhtml" />
+<itemref idref="chapter_29_xhtml" />
+<itemref idref="chapter_30_xhtml" />
+<itemref idref="chapter_31_xhtml" />
+<itemref idref="chapter_32_xhtml" />
+<itemref idref="chapter_33_xhtml" />
+<itemref idref="chapter_34_xhtml" />
+<itemref idref="chapter_35_xhtml" />
+<itemref idref="chapter_36_xhtml" />
+<itemref idref="chapter_37_xhtml" />
+<itemref idref="chapter_38_xhtml" />
+<itemref idref="chapter_39_xhtml" />
+<itemref idref="chapter_40_xhtml" />
+<itemref idref="chapter_41_xhtml" />
+<itemref idref="chapter_42_xhtml" />
+<itemref idref="chapter_43_xhtml" />
+<itemref idref="chapter_44_xhtml" />
+<itemref idref="chapter_45_xhtml" />
+<itemref idref="chapter_46_xhtml" />
+<itemref idref="chapter_47_xhtml" />
+<itemref idref="chapter_48_xhtml" />
+<itemref idref="chapter_49_xhtml" />
+<itemref idref="chapter_50_xhtml" />
+<itemref idref="chapter_51_xhtml" />
+<itemref idref="chapter_52_xhtml" />
+<itemref idref="chapter_53_xhtml" />
+<itemref idref="chapter_54_xhtml" />
+<itemref idref="chapter_55_xhtml" />
+<itemref idref="chapter_56_xhtml" />
+
+  </spine>
+  <guide>
+    <reference type="toc" title="Содержание" href="nav.xhtml" />
+    <reference type="title-page" title="" href="title.xhtml" />
+<reference type="toc" title="Содержание" href="toc.xhtml" />
+<reference type="text" title="Пролог" href="chapter_0.xhtml" />
+<reference type="text" title="Секрет Гермионы. Спрячь за решётку вольную волю, выкраду вместе с решёткой" href="chapter_1.xhtml" />
+<reference type="text" title="Ставь перед собой цель покрупнее — не промахнёшься" href="chapter_2.xhtml" />
+<reference type="text" title="Мой дурдом — моя крепость?" href="chapter_3.xhtml" />
+<reference type="text" title="Практическое магловеденье" href="chapter_4.xhtml" />
+<reference type="text" title="Особенности и повадки магов в естественной среде их обитания" href="chapter_5.xhtml" />
+<reference type="text" title="Чемпионат мира по квиддичу и немного о домовых эльфах" href="chapter_6.xhtml" />
+<reference type="text" title="ЦЫПЛЁНОК, МЕТКА, ДВА НОЖА" href="chapter_7.xhtml" />
+<reference type="text" title="Слух прошёл по зоосаду, у людей олимпиада. Удивился дикобраз, почему бы не у нас" href="chapter_8.xhtml" />
+<reference type="text" title="Ученье — свет, и кто не спрятался, сам виноват" href="chapter_9.xhtml" />
+<reference type="text" title="Что нам стоит дом построить, нарисуем — будем жить" href="chapter_10.xhtml" />
+<reference type="text" title="Палка, палка, огуречек, получился человечек?" href="chapter_11.xhtml" />
+<reference type="text" title="Чувствуйте себя как дома,  но не забывайте, что в гостях" href="chapter_12.xhtml" />
+<reference type="text" title="Богом стать просто,  если уже невмочь" href="chapter_13.xhtml" />
+<reference type="text" title="Тётенька-тётенька, зачем тебе такие большие  уши, зубы, прытко-пишущее перо?" href="chapter_14.xhtml" />
+<reference type="text" title="Прежде чем сжигать за собой мосты, посмотри, на том ли ты берегу" href="chapter_15.xhtml" />
+<reference type="text" title="Не хочешь — заставят,  не можешь — научат" href="chapter_16.xhtml" />
+<reference type="text" title="Аве, Цезарь, идущий на смерть приветствует тебя" href="chapter_17.xhtml" />
+<reference type="text" title="Неприятности делятся на крупные, то есть наши собственные, и мелкие, то есть чужие" href="chapter_18.xhtml" />
+<reference type="text" title="Круговорот души в природе" href="chapter_19.xhtml" />
+<reference type="text" title="Понедельник — день тяжёлый. Часть 1" href="chapter_20.xhtml" />
+<reference type="text" title="Понедельник — день тяжёлый. Часть 2" href="chapter_21.xhtml" />
+<reference type="text" title="Спать ложусь я вроде пешки. Просыпаюся ферзём" href="chapter_22.xhtml" />
+<reference type="text" title="Раз, два, три, четыре, пять, я иду искать" href="chapter_23.xhtml" />
+<reference type="text" title="Разбор полётов. С крыши на чердак" href="chapter_24.xhtml" />
+<reference type="text" title="Ареал Сохатого, гон и тряпки. Pardon, праздничные наряды" href="chapter_25.xhtml" />
+<reference type="text" title="Нынче детям много ль надо, им бы танцы до упада" href="chapter_26.xhtml" />
+<reference type="text" title="Бог создал людей сильными и слабыми (некоторых даже магами). А полковник Кольт уровнял их шансы" href="chapter_27.xhtml" />
+<reference type="text" title="Человек — животное стадное" href="chapter_28.xhtml" />
+<reference type="text" title="Эстафета, эстафета, вместо палочки — конфета. Удержаться нету сил, даже тигр откусил" href="chapter_29.xhtml" />
+<reference type="text" title="Жив ты или помер — главное, чтоб в номер материал успел ты передать" href="chapter_30.xhtml" />
+<reference type="text" title="Каждому, каждому в лучшее верится. Катится, катится алый паровоз" href="chapter_31.xhtml" />
+<reference type="text" title="Если вам нечего терять, попробуйте что-нибудь найти" href="chapter_32.xhtml" />
+<reference type="text" title="Первый бой комом" href="chapter_33.xhtml" />
+<reference type="text" title="Пока гром не грянет, министр не раскошелится" href="chapter_34.xhtml" />
+<reference type="text" title="Но пасаран. &quot;No pasarаn&quot;" href="chapter_35.xhtml" />
+<reference type="text" title="Чем чаще вправляют мозги, тем больше они набекрень" href="chapter_36.xhtml" />
+<reference type="text" title="До чего дошёл прогресс! До невиданных чудес! Опустился на глубины и поднялся до небес" href="chapter_37.xhtml" />
+<reference type="text" title="Долго ожидаемая подлянка всегда выскакивает неожиданно" href="chapter_38.xhtml" />
+<reference type="text" title="Минута молчанья, волчата уходят тропою волков" href="chapter_39.xhtml" />
+<reference type="text" title="Старая в альбоме есть фотография, мы на ней словно мафия. Или просто семья" href="chapter_40.xhtml" />
+<reference type="text" title="Дались вам эти мозгошмыги, есть симптомчики пострашнее" href="chapter_41.xhtml" />
+<reference type="text" title="Тяжело в учении, до боя доживут не все" href="chapter_42.xhtml" />
+<reference type="text" title="Фигня война, главное — манёвры" href="chapter_43.xhtml" />
+<reference type="text" title="Мозговой штурм, мозговая осада и даже мозговая засада" href="chapter_44.xhtml" />
+<reference type="text" title="Страсти-мордасти" href="chapter_45.xhtml" />
+<reference type="text" title="Квиддич во время чумы" href="chapter_46.xhtml" />
+<reference type="text" title="Слышу голос, голос спрашивает строго: &quot;А сегодня что на завтра сделал ты?&quot;" href="chapter_47.xhtml" />
+<reference type="text" title="Знаешь где упадёшь, не ленись, постели солому" href="chapter_48.xhtml" />
+<reference type="text" title="Мир замолк, уснул, а может быть исчез, если б не было на свете АТС" href="chapter_49.xhtml" />
+<reference type="text" title="Я прививки не боюсь. Если надо, уколюсь" href="chapter_50.xhtml" />
+<reference type="text" title="Прелесть что за гадость" href="chapter_51.xhtml" />
+<reference type="text" title="Всегда ли приятно поговорить с умным человеком, даже с самим собой?" href="chapter_52.xhtml" />
+<reference type="text" title="Валентин может быть и святой, а люди грешны" href="chapter_53.xhtml" />
+<reference type="text" title="Тяжело сидеть на канцелярских кнопках" href="chapter_54.xhtml" />
+<reference type="text" title="На медведя я, друзья, выйду без испуга, если с другом буду я, а медведь без друга" href="chapter_55.xhtml" />
+<reference type="text" title="Эпилог" href="chapter_56.xhtml" />
+
+  </guide>
+</package>
